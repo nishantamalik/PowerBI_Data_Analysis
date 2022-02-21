@@ -2,6 +2,6 @@
 
 Using Sample data collected from Youtube channel(Chandoo), have completed three tasks:
 
-Data Cleaning using PowerQuery
-Data Analysis, Modelling and Visualisation using PowerPivot
-Trend Forecasting
+1)Data Cleaning using PowerQuery
+2)Data Analysis, Modelling and Visualisation using PowerPivot
+3)Trend Forecasting
